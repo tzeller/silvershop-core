@@ -1,4 +1,10 @@
-{
+"repositories": [
+
+        {
+            "type": "vcs",
+            "url": "https://github.com/user/tzeller"
+        }
+    ]{
   "name": "tzsilvershop/core",
   "description": "Provides an ecommerce product catalog, shopping cart, and order management system",
   "license": "BSD-2-Clause",
